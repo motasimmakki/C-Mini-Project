@@ -1,6 +1,4 @@
 # C-Mini-Project
-Walking man in rain under the umbrella (using graphics.h )
-# Snake-Game-in-JavaScript
 
 # <h1>Introduction :</h1>
 <ul>
